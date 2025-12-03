@@ -1,0 +1,4 @@
+Scenario,Total Cases,Change vs Observed,Peak Weekly Cases
+Observed (Actual),"103,806,563",Baseline,"5,648,740"
+Scenario 1: Earlier Vaccination,"40,180,381",-61.3%,"1,977,059"
+Scenario 2: Delayed Lockdown,"44,353,721",+-57.3%,"1,977,059"

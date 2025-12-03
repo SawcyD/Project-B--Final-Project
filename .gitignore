@@ -1,0 +1,40 @@
+# Report files
+Project_B_Final_Report_Slides.html
+Project_B_Final_Report.html
+Project_B_Final_Report.md
+Project_B_Final_Report_With_Images.html
+
+# PDF documents
+Project B - Epidemiological Modeling-1 - Copy.pdf
+Math Final Doc (1).pdf
+
+# Helper scripts
+create_report_with_images.py
+create_word_document.py
+convert_to_google_doc.py
+COPY_TO_GOOGLE_DOCS.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+Group 5 Project Soln.docx
