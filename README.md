@@ -122,7 +122,7 @@ project/
 ### Requirements
 
 ```bash
-pip install pandas numpy matplotlib seaborn statsmodels scipy
+pip install -r requirements.txt
 ```
 
 ### Running the Project
